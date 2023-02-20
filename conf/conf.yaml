@@ -1,0 +1,12 @@
+# loginurl :      xsgsd.xmwan.com
+login:
+  username: 1
+  password: 1
+  apiServer:
+
+
+# 0 最近登录
+gameServer:
+  default: 0
+  name: 3
+  usr:
